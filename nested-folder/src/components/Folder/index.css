@@ -1,0 +1,21 @@
+.folder .folder-name {
+    padding: 10px;
+    background-color: aquamarine;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.folder .folder,
+.folder .file,
+.input-container {
+    margin-left: 10px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+.file {
+    color: brown;
+}
